@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'agimus-orchestrator'
+package_name = 'agimus_orchestrator'
 
 setup(
     name=package_name,
